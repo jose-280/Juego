@@ -1,0 +1,19 @@
+{
+  "name": "Trivia_ep03",
+  "version": "1.0.0",
+  "description": "Proyecto final para la materia EP03, universidad de cundinamarca, chia",
+  "main": "app.js",
+  "dependencies": {
+    "consolidate": "^0.13.1",
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3",
+    "mysql": "^2.9.0",
+    "swig": "^1.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jose Alfredo Sierra",
+  "license": "ISC"
+}
